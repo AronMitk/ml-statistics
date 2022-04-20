@@ -9,7 +9,7 @@ Bakalauro projekto objektų atpažinimo rezultatai
 3. Regiono folderyje galima rasti pavyzdžius ir apmokymo statistiką
 
 
-Autorius:
-Arnas Mitkevičius PRIF-18/1
-VilniusTech
-2022
+Autorius:  
+Arnas Mitkevičius PRIF-18/1  
+VilniusTech  
+2022  
