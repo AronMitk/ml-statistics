@@ -1,7 +1,7 @@
 # Turistinių objektų identifikavimas naudojant geolokaciją ir neuroninius tinkus
 Bakalauro projekto objektų atpažinimo rezultatai
 
-##Kaip juos tirti?
+## Kaip juos tirti?
 1. Pasirenkama versija
    - V1 - Objektų atpažinimo ir lokalizavimo algoritmas (Object's detection)
    - V2 - Objektų klasifikavimo algoritmas (Image classification)
